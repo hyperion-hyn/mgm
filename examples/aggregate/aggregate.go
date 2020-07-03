@@ -1,9 +1,9 @@
 package aggregate
 
 import (
-	"github.com/Kamva/mgm/v3"
-	"github.com/Kamva/mgm/v3/builder"
-	"github.com/Kamva/mgm/v3/field"
+	"github.com/hyperion-hyn/mgm/v3"
+	"github.com/hyperion-hyn/mgm/v3/builder"
+	"github.com/hyperion-hyn/mgm/v3/field"
 	"go.mongodb.org/mongo-driver/bson"
 )
 

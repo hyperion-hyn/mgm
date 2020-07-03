@@ -1,4 +1,4 @@
-module github.com/Kamva/mgm/v3
+module github.com/hyperion-hyn/mgm/v3
 
 go 1.14
 
